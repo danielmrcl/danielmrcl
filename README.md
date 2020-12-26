@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome, here I share my projects, some test codes and other things I'm learning.
+
+### whoami:
+
+I am starting in the world of Software Development and I love learning new technologies.
+
+Linux lover
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrcl&hide=lua&layout=compact&theme=dark)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielmrcl&theme=dark&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)  
