@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome, here I share my projects, some test codes and other things I'm learning.
+Welcome!!! Here I share my projects, some test codes and other things I'm learning.
 
 ### Stats:
 
