@@ -19,4 +19,4 @@ Welcome, here I share my projects, some test codes and other things I'm learning
 
 ### Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrcl&hide=lua&layout=compact&theme=dark&hide_border=1&bg_color=0D1117)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrcl&hide=lua&layout=compact&theme=dark&bg_color=0D1117&title_color=c9d1d9&text_color=c9d1d9)  
