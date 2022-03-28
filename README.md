@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrcl&exclude_repo=awesomewm-dotfiles,dio-aplicacao-ddd,DesignPatternSamples,dotnet-vaquinha-tests&theme=graywhite&layout=compact&hide=html,css&&langs_count=3&hide_border=true&border_radius=0&hide_title=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmrcl&exclude_repo=awesomewm-dotfiles,dio-aplicacao-ddd,DesignPatternSamples,dotnet-vaquinha-tests&theme=graywhite&layout=compact&hide=html,css&&langs_count=6&hide_border=true&border_radius=0&hide_title=true) 
