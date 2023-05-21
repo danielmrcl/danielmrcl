@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Backend Developer at @justapagamentos
-- 🌱 I’m currently learning about Functional Programming, Scalability
-- 👯 I’m looking to collaborate on anything and everything
-- 📫 How to reach me: @danielmrcl on LinkedIn
+- 🌱 I’m currently learning to develop more efficient, scalable and secure systems.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielmrcl/)
 
 <!--
 **danielmrcl/danielmrcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
