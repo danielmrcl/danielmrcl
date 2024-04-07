@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Since 2021 working on developing Java 8+ applications with Spring and PostgreSQL in microservices architecture.
+
 - 🔭 I’m currently working as a Backend Developer at @justapagamentos
 - 🌱 I’m currently learning to develop more efficient, scalable and secure systems.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielmrcl/)
